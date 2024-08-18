@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668581519928",
+    "project_id": "rootally-ai-7cb65",
+    "storage_bucket": "rootally-ai-7cb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668581519928:android:d6cab5277f8a2aa9903ccd",
+        "android_client_info": {
+          "package_name": "com.example.rootally_ai_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGHQKmRfjHDJd_gEta2GbdnsKaT0xCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
